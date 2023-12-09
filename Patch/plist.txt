@@ -1,3 +1,9 @@
 [enUS]patch-Z.MPQ 5a8234d7661a310dd90c2ce966951cfd  
 [zhCN]zhCN/patch-zhCN-Z.MPQ 78b76f040694ba30c330b7c8dd5c1f48
 [zhTW]zhTW/patch-zhTW-Z.MPQ c3501808b503f09819b815481024729f
+[enUS]Patch-J.mpq 06f9d2c6206d494d32ea2e122bad94ed  
+[enUS]Patch-V.mpq fd73f11972388eb5f5527f1039b56bc0  
+[zhCN]zhCN/Patch-J.mpq 06f9d2c6206d494d32ea2e122bad94ed  
+[zhCN]zhCN/Patch-V.mpq fd73f11972388eb5f5527f1039b56bc0  
+[zhTW]zhTW/Patch-J.mpq 06f9d2c6206d494d32ea2e122bad94ed  
+[zhTW]zhTW/Patch-V.mpq fd73f11972388eb5f5527f1039b56bc0  
